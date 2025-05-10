@@ -80,3 +80,6 @@ Accepts article input (manual or file).
 Uses NLP summarization.
 
 Outputs a clean, readable summary.
+
+**#OUT PUT**
+![Image](https://github.com/user-attachments/assets/8fdffd72-050f-4ad3-87bf-d04f7072ecb7)
